@@ -1,0 +1,17 @@
+{
+  "name": "vti-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Aries-Rabbit/vti-demo.git",
+  "author": "ariesrabbit <anh.thanh1400@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
